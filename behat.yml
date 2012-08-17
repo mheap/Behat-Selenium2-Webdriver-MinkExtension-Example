@@ -1,0 +1,8 @@
+default:
+  extensions:
+    Behat\MinkExtension\Extension:
+      base_url:  'http://tweetdig.dev'
+      default_session: selenium2
+      browser_name: 'firefox'
+      selenium2:
+        capabilities: { "browser": "firefox", "version": "14"}

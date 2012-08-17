@@ -1,0 +1,69 @@
+{
+    "hash": "5038ad49fdc1ffb8dcd4bd483223caa2",
+    "packages": [
+        {
+            "package": "behat/behat",
+            "version": "v2.4.3"
+        },
+        {
+            "package": "behat/gherkin",
+            "version": "v2.2.4"
+        },
+        {
+            "package": "behat/mink",
+            "version": "v1.4.0"
+        },
+        {
+            "package": "behat/mink-extension",
+            "version": "v1.0.0"
+        },
+        {
+            "package": "behat/mink-selenium2-driver",
+            "version": "v1.0.2"
+        },
+        {
+            "package": "instaclick/php-webdriver",
+            "version": "v1.0.5"
+        },
+        {
+            "package": "symfony/config",
+            "version": "v2.0.16"
+        },
+        {
+            "package": "symfony/console",
+            "version": "v2.0.16"
+        },
+        {
+            "package": "symfony/css-selector",
+            "version": "v2.0.16"
+        },
+        {
+            "package": "symfony/dependency-injection",
+            "version": "v2.0.16"
+        },
+        {
+            "package": "symfony/event-dispatcher",
+            "version": "v2.0.16"
+        },
+        {
+            "package": "symfony/finder",
+            "version": "v2.0.16"
+        },
+        {
+            "package": "symfony/translation",
+            "version": "v2.0.16"
+        },
+        {
+            "package": "symfony/yaml",
+            "version": "v2.0.16"
+        }
+    ],
+    "packages-dev": null,
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "behat/mink": 0
+    }
+}
